@@ -3,6 +3,7 @@
 A Python tray notifier that monitors a website's API and notifies you via system tray + Windows toast when new games or content are uploaded.
 
 > ⚠️ This project does **not** include private API keys or endpoints. You must configure it yourself.
+> ⚠️ prev_data.json and upload_timestamps.log is just example, Delete it when you modify the script.
 
 ---
 
