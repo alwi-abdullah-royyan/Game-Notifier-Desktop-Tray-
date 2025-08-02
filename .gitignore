@@ -1,0 +1,5 @@
+config.json
+error.log*
+prev_data.json
+logs/
+error.log
