@@ -40,7 +40,7 @@ pip install requests pystray pillow win10toast
 4. Run it:
 
 ```bash
-python notifier.py
+python latest.pyw
 ```
 
 ---
